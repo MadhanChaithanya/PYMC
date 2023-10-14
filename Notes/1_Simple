@@ -9,7 +9,6 @@ Factor-1
 learning Multiple Modules and They can Re-use the Pre-Defined Code Present in Modules
 without writing the Own Code.
 
-Examples: calendar, math, cmath, os, random, .. etc.,
                                                            Libraries----C Header Files
                                                                         C++ Names Spaces OR HF
                                                                         Java----Packages
@@ -19,13 +18,27 @@ Examples: calendar, math, cmath, os, random, .. etc.,
                             C++ ----400 Lines
                             Java ----25 Lines
                             PYTHON---2 Lines
+---------------------
+Definition of Module:
+---------------------
+A Module is a Collection of Data Members, Functions and Class Names.
+Examples: calendar, math, cmath, os, random, .. etc.,
 -----------------------------------------------------------------------------------------
 Factor-2
 -----------------------------------------------------------------------------------------
-
-
-
-
+=> Python Programming Provides In-Built Facility called "Garbage Collector".
+So that Garbage Collector collects Un-Used Memory Space and Improves the performance of
+Python Based Applications.
+--------------------------
+Def. of Garbage Collector:
+--------------------------
+A Garbage Collector is one of the Python Background Program which is available in Python Software
+and Running Behind of Python Regular Program and whose Role is to Collect Un-Used Memory Space
+and Improves the Performance of Python Based Applications.
+=> Hence Garbage Collector takes care about Automatic Memory Management.
 -----------------------------------------------------------------------------------------
 Factor-3
+-----------------------------------------------------------------------------------------
+Python Programming Provides User-Friendly Syntax. So that Python Programmer can develop
+Error-Free Programs in limited span of time.
 -----------------------------------------------------------------------------------------
